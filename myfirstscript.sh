@@ -1,2 +1,2 @@
-ssh frontend-user@35.178.118.161 -v -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null "touch /tmp/$1"
+ssh frontend-user@172.31.28.82 -v -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null "touch /tmp/$1"
 
